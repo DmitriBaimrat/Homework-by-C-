@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\bin\Debug\net6.0\Exercize02.exe
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\bin\Debug\net6.0\Exercize02.deps.json
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\bin\Debug\net6.0\Exercize02.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\bin\Debug\net6.0\Exercize02.dll
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\bin\Debug\net6.0\Exercize02.pdb
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.dll
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\refint\Exercize02.dll
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.pdb
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\Exercize02.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\ДЗ\Homework№1 by C#\Exercize02\obj\Debug\net6.0\ref\Exercize02.dll
