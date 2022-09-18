@@ -1,7 +1,7 @@
 ﻿System.Console.Write("Введите первое число ");
 int a = int.Parse(Console.ReadLine());
 
-System.Console.WriteLine("Введите второе число ");
+System.Console.Write("Введите второе число ");
 int b = int.Parse(Console.ReadLine());
 
 if (a > b)
